@@ -6,7 +6,7 @@ namespace CaesarCipher
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args, argv)
         {
             Console.WriteLine("Enter a word to encode:");
             string word = Console.ReadLine();
